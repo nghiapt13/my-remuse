@@ -76,12 +76,12 @@ body.dark-theme{
 
 /*========== Font size variables to scale cv ==========*/
 body.scale-cv{
-  --h1-font-size: .838rem;
-  --h2-font-size: .838rem;
-  --h3-font-size: .775rem;
-  --normal-font-size: .713rem;
-  --small-font-size: .65rem;
-  --smaller-font-size: .588rem;
+  --h1-font-size: .738rem;
+  --h2-font-size: .738rem;
+  --h3-font-size: .675rem;
+  --normal-font-size: .613rem;
+  --small-font-size: .55rem;
+  --smaller-font-size: .488rem;
 }
 
 /*========== Generate PDF button ==========*/
